@@ -1,0 +1,12 @@
+requests
+scapy
+bs4
+ipaddr
+pyopenssl
+pexpect
+netaddr
+PyYAML
+python-dateutil
+python-dotenv
+docker
+netifaces
